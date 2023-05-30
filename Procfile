@@ -1,0 +1,1 @@
+web: gunicorn djchatprj.wsgi --log-file -
